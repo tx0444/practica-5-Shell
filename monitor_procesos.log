@@ -1,0 +1,61 @@
+--- Inicio del monitoreo: ma.,  3 de nov. de 2026 19:29:09 ---
+=== Top 5 Procesos por CPU ===
+=== Top 5 Procesos por Memoria ===
+
+
+--- Fin del reporte: ma.,  3 de nov. de 2026 19:29:09 ---
+[INFO] Limpieza ejecutada: ma.,  3 de nov. de 2026 19:29:09
+--- Inicio del monitoreo: ma.,  3 de nov. de 2026 19:29:19 ---
+=== Top 5 Procesos por CPU ===
+=== Top 5 Procesos por Memoria ===
+
+
+=== Búsqueda del proceso: bash ===
+[INFO] El proceso 'bash' no existe o no está activo.
+
+--- Fin del reporte: ma.,  3 de nov. de 2026 19:29:19 ---
+[INFO] Limpieza ejecutada: ma.,  3 de nov. de 2026 19:29:19
+--- Inicio del monitoreo: ma.,  3 de nov. de 2026 19:30:39 ---
+=== Top 5 Procesos por CPU ===
+=== Top 5 Procesos por Memoria ===
+     UID     PID    PPID  TTY        STIME COMMAND
+Tx098(Vo     882     879 cons0    19:30:39 /bin/bash ./monitor_basico.sh 
+Tx098(Vo     886     882 cons0    19:30:39 ps -ef 
+Tx098(Vo     881     879 cons0    19:30:39 /bin/bash ./monitor_basico.sh 
+Tx098(Vo     887     881 cons0    19:30:39 /usr/bin/bash
+Tx098(Vo     825       1 cons0    19:28:49 /usr/bin/bash -i -l 
+
+     UID     PID    PPID  TTY        STIME COMMAND
+Tx098(Vo     882     879 cons0    19:30:39 /bin/bash ./monitor_basico.sh 
+Tx098(Vo     887     881 cons0    19:30:39 head -6 
+Tx098(Vo     888     882 cons0    19:30:39 head -6 
+Tx098(Vo     886     882 cons0    19:30:39 ps -ef 
+Tx098(Vo     881     879 cons0    19:30:39 /bin/bash ./monitor_basico.sh 
+
+--- Fin del reporte: ma.,  3 de nov. de 2026 19:30:39 ---
+[INFO] Limpieza ejecutada: ma.,  3 de nov. de 2026 19:30:40
+--- Inicio del monitoreo: ma.,  3 de nov. de 2026 19:30:40 ---
+=== Top 5 Procesos por CPU ===
+=== Top 5 Procesos por Memoria ===
+     UID     PID    PPID  TTY        STIME COMMAND
+Tx098(Vo     899     896 cons0    19:30:40 /bin/bash ./monitor_basico.sh bash 
+Tx098(Vo     896     825 cons0    19:30:40 /bin/bash ./monitor_basico.sh bash 
+Tx098(Vo     898     896 cons0    19:30:40 /bin/bash ./monitor_basico.sh bash 
+Tx098(Vo     904     898 cons0    19:30:40 head -6 
+Tx098(Vo     903     899 cons0    19:30:40 ps -ef 
+
+     UID     PID    PPID  TTY        STIME COMMAND
+Tx098(Vo     904     898 cons0    19:30:40 head -6 
+Tx098(Vo     899     896 cons0    19:30:40 /bin/bash ./monitor_basico.sh bash 
+Tx098(Vo     905     899 cons0    19:30:40 head -6 
+Tx098(Vo     896     825 cons0    19:30:40 /bin/bash ./monitor_basico.sh bash 
+Tx098(Vo     898     896 cons0    19:30:40 /usr/bin/bash
+
+=== Búsqueda del proceso: bash ===
+Tx098(Vo     907     896 cons0    19:30:40 /bin/bash ./monitor_basico.sh bash 
+Tx098(Vo     896     825 cons0    19:30:40 /bin/bash ./monitor_basico.sh bash 
+Tx098(Vo     825       1 cons0    19:28:49 /usr/bin/bash -i -l 
+[INFO] Proceso 'bash' encontrado.
+
+--- Fin del reporte: ma.,  3 de nov. de 2026 19:30:40 ---
+[INFO] Limpieza ejecutada: ma.,  3 de nov. de 2026 19:30:40
